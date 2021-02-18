@@ -12,13 +12,12 @@
 ### My Music on Spotify 🎧
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.instagram.com/monkhooduk/)
-[<img src="images/monkhood_logo.png" alt="Monkhood - Isolation 2016" width="70" height="70" target="_blank" />](https://open.spotify.com/album/4JFAnJPc32QCmLnS3bIftU?si=tvWAbqnuRNWOLjge5wzsuw)
 
 ### Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://twitter.com/nachopuglisi)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.linkedin.com/in/ignacio-puglisi/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.instagram.com/monkhooduk/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Nacho Puglisi | Twitter" width="45" height="45" target="_blank" />](https://twitter.com/nachopuglisi)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Nacho Puglisi | LinkedIn 2016" width="45" height="45" target="_blank" />](https://www.linkedin.com/in/ignacio-puglisi/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Nacho Puglisi | Instagram 2016" width="45" height="45" target="_blank" />](https://www.instagram.com/monkhooduk/)
 
 <br />
 
