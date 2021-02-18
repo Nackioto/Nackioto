@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[![twitter](https://twitter.com/nachopuglisi?ref_src=twsrc%5Etfw)](https://twitter.com/nachopuglisi)
+[![twitter](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)](https://twitter.com/nachopuglisi)
 [<img align="left" alt="Nacho Puglisi | LinkedIn" width="22px" height="22px" src="images/linkedin.png" />][linkedin]
 [<img align="left" alt="Nacho Puglisi | Instagram" width="22px" height="22px" src="images/instagram.png" />][instagram]
 
