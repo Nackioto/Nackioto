@@ -11,6 +11,7 @@
 
 ### My Music on Spotify 🎧
 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.instagram.com/monkhooduk/)
 [<img src="images/monkhood_logo.png" alt="Monkhood - Isolation 2016" width="70" height="70" target="_blank" />](https://open.spotify.com/album/4JFAnJPc32QCmLnS3bIftU?si=tvWAbqnuRNWOLjge5wzsuw)
 
 ### Connect with me:
@@ -45,36 +46,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [Node Congress Live Stream](https://www.youtube.com/watch?v=v5wk1xXnfgY)
-- [Top Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 2)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
-- [BEST Way to Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
-- [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
-- [Top [20] Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 1)](https://www.youtube.com/watch?v=b6rMI_h49fo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:STARTyyy -->
-
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -87,15 +58,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: [domain here]
-[twitter]: https://twitter.com/nachopuglisi
-[instagram]: https://www.instagram.com/monkhooduk/
-[linkedin]: https://www.linkedin.com/in/ignacio-puglisi/
