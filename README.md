@@ -46,19 +46,3 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Nacho Puglisi | Terminal" width="45" height="45" target="_blank" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Nacho Puglisi | Docker" width="45" height="45" target="_blank" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Nacho Puglisi | Kubernetes" width="45" height="45" target="_blank" />
-
-<br />
-<br />
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🎉 Merged PR [#4](https://github.com/codeSTACKr/free-developer-resources/pull/4) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🎉 Merged PR [#3](https://github.com/codeSTACKr/free-developer-resources/pull/3) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. ❗️ Closed issue [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
