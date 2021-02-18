@@ -11,7 +11,7 @@
 
 ### My Music on Spotify 🎧
 
-[<img src="images/monkhood_logo.png" alt="Monkhood - Isolation 2016" width="350" />](https://open.spotify.com/album/4JFAnJPc32QCmLnS3bIftU?si=tvWAbqnuRNWOLjge5wzsuw)
+[<img src="images/monkhood_logo.png" alt="Monkhood - Isolation 2016" width="70" height="70" target="_blank" />](https://open.spotify.com/album/4JFAnJPc32QCmLnS3bIftU?si=tvWAbqnuRNWOLjge5wzsuw)
 
 ### Connect with me:
 
