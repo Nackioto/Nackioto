@@ -1,6 +1,8 @@
-### Hi there, I'm Nacho - Full-Stack Developer [website] 👋
+### Hi there, I'm Nacho - Full-Stack Developer 👋
 
-[![Website]([enter logo])]([enter domain-website])
+- ⚡ The Digital World is a Long-Term Game.
+  It Needs Consistency & Patience.
+  #Cryptocurrency #Forex
 
 ## I'm a Developer, Guitar Player, BBQ expert & Dalmatian daddy!!
 
