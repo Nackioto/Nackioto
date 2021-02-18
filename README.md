@@ -1,8 +1,8 @@
 ### Hi there, I'm Nacho - Full-Stack Developer 👋
 
 - 🔆 The Digital World is a Long-Term Game.
-  It Needs Consistency & Patience.
-  #Cryptocurrency #Forex
+- 💪 It Needs Consistency & Patience.
+- 💰 #Cryptocurrency #Forex
 
 ## I'm a Developer, Guitar Player, BBQ expert & Dalmatian Daddy!!
 
@@ -11,7 +11,9 @@
 - 🥅 2021 Goals: Build more ReactJS projects & land in a job 🧑‍🚀
 - ⚡ Fun fact: I love to play guitar
 
-### My Music on Spotify 🎧🎵
+### My Music on Spotify 🎧
+
+- 🎵 I wrote an Album when I used to have a band in Glasgow (2016)
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.instagram.com/monkhooduk/)
 
