@@ -1,17 +1,17 @@
 ### Hi there, I'm Nacho - Full-Stack Developer 👋
 
-- ⚡ The Digital World is a Long-Term Game.
+- 🔆 The Digital World is a Long-Term Game.
   It Needs Consistency & Patience.
   #Cryptocurrency #Forex
 
-## I'm a Developer, Guitar Player, BBQ expert & Dalmatian daddy!!
+## I'm a Developer, Guitar Player, BBQ expert & Dalmatian Daddy!!
 
 - 🔭 I'm working on 'Keyword Research App' in my spare time with a Senior Full-Stack!
-- 🌱 I’m currently learning everything too 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects & land in a job
+- 🏷️ I love ReactJS ❤️
+- 🥅 2021 Goals: Build more ReactJS projects & land in a job 🧑‍🚀
 - ⚡ Fun fact: I love to play guitar
 
-### My Music on Spotify 🎧
+### My Music on Spotify 🎧🎵
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.instagram.com/monkhooduk/)
 
@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
