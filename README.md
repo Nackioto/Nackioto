@@ -15,6 +15,8 @@
 
 ### Connect with me:
 
+[<img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="Monkhood - Isolation 2016" width="70" height="70" target="_blank" />](https://twitter.com/nachopuglisi)
+
 [![twitter](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)](https://twitter.com/nachopuglisi)
 [<img align="left" alt="Nacho Puglisi | LinkedIn" width="22px" height="22px" src="images/linkedin.png" />][linkedin]
 [<img align="left" alt="Nacho Puglisi | Instagram" width="22px" height="22px" src="images/instagram.png" />][instagram]
