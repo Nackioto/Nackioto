@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<a href="https://twitter.com/nachopuglisi"<img align="left" alt="Nacho Puglisi | Twitter "width="22px" height="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Ftwitter&psig=AOvVaw3MTPJHaZpArmOqmxgMr-69&ust=1613734837894000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj1xfCs8-4CFQAAAAAdAAAAABAD"> </a>][twitter]
+[![twitter](https://images.app.goo.gl/drCpRxK3FWn4NbzDA)](https://twitter.com/nachopuglisi)
 [<img align="left" alt="Nacho Puglisi | LinkedIn" width="22px" height="22px" src="images/linkedin.png" />][linkedin]
 [<img align="left" alt="Nacho Puglisi | Instagram" width="22px" height="22px" src="images/instagram.png" />][instagram]
 
