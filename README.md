@@ -1,10 +1,10 @@
-### Hi there, I'm Nacho - Full-Stack Developer 👋
+## Hi there, I'm Nacho - Full-Stack Developer 👋
 
 - 🔆 The Digital World is a Long-Term Game.
 - 💪 It Needs Consistency & Patience.
 - 💰 #Cryptocurrency #Forex
 
-## I'm a Developer, Guitar Player, BBQ expert & Dalmatian Daddy!!
+### I'm a Developer, Guitar Player, BBQ expert & Dalmatian Daddy!!
 
 - 🔭 I'm working on 'Keyword Research App' in my spare time with a Senior Full-Stack!
 - 🏷️ I love ReactJS ❤️
