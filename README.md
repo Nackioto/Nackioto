@@ -15,12 +15,9 @@
 
 ### Connect with me:
 
-[<img src="https://github.com/johan/svg-cleanups/blob/master/logos/linkedin.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://twitter.com/nachopuglisi)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://twitter.com/nachopuglisi)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.linkedin.com/in/ignacio-puglisi/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Monkhood - Isolation 2016" width="45" height="45" target="_blank" />](https://www.instagram.com/monkhooduk/)
-
-[<img align="left" alt="Nacho Puglisi | LinkedIn" width="22px" height="22px" src="images/linkedin.png" />][linkedin]
-[<img align="left" alt="Nacho Puglisi | Instagram" width="22px" height="22px" src="images/instagram.png" />][instagram]
 
 <br />
 
