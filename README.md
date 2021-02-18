@@ -8,7 +8,7 @@
 
 - 🔭 I'm working on 'Keyword Research App' in my spare time with a Senior Full-Stack!
 - 🏷️ I love ReactJS ❤️
-- 🥅 2021 Goals: Build more ReactJS projects & land in a job 🧑‍🚀
+- 🥅 2021 Goals: Build more ReactJS projects & land a job 🧑‍🚀
 - ⚡ Fun fact: I love to play guitar
 
 ### My Music on Spotify 🎧
