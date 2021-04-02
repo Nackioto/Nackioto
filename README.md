@@ -6,7 +6,7 @@
 
 ### I'm a Developer, Guitar Player, BBQ Expert & Dalmatian Daddy!!
 
-- 🔭 I'm working on a side project 'SEO Toola Platform App' in my spare time with a Senior Full-Stack!
+- 🔭 I'm working on a side project 'SEO Tools Platform App' in my spare time with a Senior Full-Stack!
 - 🏷️ I love ReactJS ❤️
 - 🥅 2021 Goals: Build more ReactJS projects & land a job 🧑‍🚀
 - ⚡ Fun fact: I love to play guitar
